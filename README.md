@@ -1,5 +1,5 @@
 # UnitOneAssignment_JasonParsons
- Stripe Services
+Stripe Services
 
 Financial Services Payment Processor 
 
@@ -13,7 +13,7 @@ Stripe aims to offer easier and faster payment processing software and applicati
 
 Stripe has built a name for itself so much; they now have a publishing company named Stripe Press which has grown to support ideas for innovative businesses. In October of 2020, Stripe created an atmospheric carbon and capture service for businesses that were looking for such a service. They named it Stripe Climate. The importance of this carbon capture and storage (CCS) process is to round-up waste carbon dioxide (CO2), transport it to a storage site, and deposit it where it will no longer enter the atmosphere.   
 
-The innovations Stripe has managed to introduce to the industry caused the company to grow from a $2 million seed round in 2011 to a $95 billion valuation in 2021. Millions of dollars have poured into Stripe with investors like Thrive Capital, General Catalyst, and Tiger Global Management. PayPal is another big-name company that has pushed to mirror Stripe in some ways. PayPal now offers digital wallets and loans as well as a newly named piece called PayPal Commerce with primarily focuses on POS payments through “PayPal Here”. PayPal and Stripe are charging the same when it comes to online transactions at a 2.9% rate. The two companies both have support for invoicing and recurring billing. The biggest difference between the two is user friendliness. PayPal is the most user friendly but Stripe will favor the powerful developer. The all-in-one payment processor and payment geteway that Stripe offers can only be offered as a bundle there for never offered independently. 
+The innovations Stripe has managed to introduce to the industry caused the company to grow from a $2 million seed round in 2011 to a $95 billion valuation in 2021. Millions of dollars have poured into Stripe with investors like Thrive Capital, General Catalyst, and Tiger Global Management. PayPal is another big-name company that has pushed to mirror Stripe in some ways. PayPal now offers digital wallets and loans as well as a newly named piece called PayPal Commerce with primarily focuses on POS payments through "PayPal Here". PayPal and Stripe are charging the same when it comes to online transactions at a 2.9% rate. The two companies both have support for invoicing and recurring billing. The biggest difference between the two is user friendliness. PayPal is the most user friendly but Stripe will favor the powerful developer. The all-in-one payment processor and payment geteway that Stripe offers can only be offered as a bundle there for never offered independently. Other competiors like Square have also dipped in the payment game with similar services and prices. However, Square is a brick-and-mortar businesses that made it's debut in 2009 with in-person payment options. Fast forward to 2016, Square is now matching Stripe with a online payment service.
 
 Stripe in my opinion, should venture into real estate and home loans. The payment system is already in place for smaller countries to take advantage of a company that hands out loans a little easier than say a bank that needs income levels to be high. With a paycheck direct deposit, someone could move funds to payments though the transaction system with no hang-ups. The loan and payment would of course be arranged beforehand and agreed upon. The purpose of the direct deposit is to not only ensure payment but also keep the 2.9% fee flowing. 
 
@@ -21,6 +21,7 @@ Stripe in my opinion, should venture into real estate and home loans. The paymen
 https://en.wikipedia.org/wiki/Stripe_(company)#History 
 https://en.wikipedia.org/wiki/Carbon_capture_and_storage 
 https://www.merchantmaverick.com/paypal-vs-stripe/ 
+https://fundera.com/blog/stripe-vs-square
+
 
  
-
