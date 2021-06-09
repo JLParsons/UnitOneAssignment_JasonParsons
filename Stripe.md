@@ -9,7 +9,7 @@ Founded 2009 by Patrick and John Collison
 
 Stipe is an Irish-American, dual-headquartered services and software company in California and Dublin. The e-commerce unicorn known as Stripe was founded by John and Patrick Collison in 2009. Side projects led Patrick to complain about the speed and difficulty of accepting payments on the web. After meeting with co-founders of PayPal, Elon Musk and Peter Thiel, the Collison brothers received a $2 million investment. The Governor of the Bank of England, Mark Carney, was newly appointed to the Stripe board in February of 2021.  
 
-Stripe aims to offer easier and faster payment processing software and application programming interfaces and mobile applications. With Stripe growing at enormous rates, it has now expanded to Southeast Asia, China, India, and Japan. By 2021, Stripe raised another $600 million with intentions of expanding their European headquarters. Before their Europe and Asia extension, they launched a platform called Atlas which helped user in the U.S. with new start-ups. While Stripe is providing card services as well as fraud and risk management to large tech companies, Stripe also has a point-of-sale service called Terminal. The “Terminal” advantage is a combination of Stripe as a service and a physical card reader. These readers include Verifone P400 and BBPOS Chipper 2X BT.  
+Stripe aims to offer easier and faster payment processing software and application programming interfaces and mobile applications. With Stripe growing at enormous rates, it has now expanded to Southeast Asia, China, India, and Japan. By 2021, Stripe raised another $600 million with intentions of expanding their European headquarters. Before their Europe and Asia extension, they launched a platform called Atlas which helped user in the U.S. with new start-ups. While Stripe is providing card services as well as fraud and risk management to large tech companies, Stripe also has a point-of-sale service called Terminal. The “Terminal” advantage is a combination of Stripe as a service and a physical card reader. These readers include Verifone P400 and BBPOS Chipper 2X BT. When it comes to countries and currencies, Stipe can work with 42 countries and 135 currencies. PayPay on the other hand can connect with 200 countries but only 25 currencies. These two powerhouses are setting the stage for a worldwide battle of transactions.
 
 Stripe has built a name for itself so much; they now have a publishing company named Stripe Press which has grown to support ideas for innovative businesses. In October of 2020, Stripe created an atmospheric carbon and capture service for businesses that were looking for such a service. They named it Stripe Climate. The importance of this carbon capture and storage (CCS) process is to round-up waste carbon dioxide (CO2), transport it to a storage site, and deposit it where it will no longer enter the atmosphere.   
 
@@ -22,6 +22,8 @@ https://en.wikipedia.org/wiki/Stripe_(company)#History
 https://en.wikipedia.org/wiki/Carbon_capture_and_storage 
 https://www.merchantmaverick.com/paypal-vs-stripe/ 
 https://fundera.com/blog/stripe-vs-square
+https://illuminz.com/blog/stripe-vs.-square:-which-one-should-you-choose-in-2021
+
 
 
  
